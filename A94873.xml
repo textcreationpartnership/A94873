@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Troy-Novant must not be burnt. Or, an exhortative to the city to preserve themselves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94873</idno>
+            <idno type="STC">Wing T2322</idno>
+            <idno type="STC">Thomason 669.f.12[21]</idno>
+            <idno type="STC">ESTC R210762</idno>
+            <idno type="EEBO-CITATION">99869519</idno>
+            <idno type="PROQUEST">99869519</idno>
+            <idno type="VID">162814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f12[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Troy-Novant must not be burnt. Or, an exhortative to the city to preserve themselves.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from by Wing.</note>
+                  <note>Verse - "VVhat is there none that will the city right?".</note>
+                  <note>With marginal notes.</note>
+                  <note>Annotation on Thomason copy: "may 8th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162814:1" rendition="simple:additions"/>
+            <head>¶Troy-Novant muſt not be Burnt.
+Or, an exhortative to the City to pre<g ref="char:EOLhyphen"/>ſerve
+themſelves.</head>
+            <l>VVHat is there none that will the <hi>City</hi> right?</l>
+            <l>Was all their ſtory by feirce <hi>Vulcans</hi> ſpight.</l>
+            <l>Burnt in <hi>Ben. Iohnſons</hi> ſtudy; Let us rake,</l>
+            <l>And from thoſe <hi>Aſhes</hi> new-liv'd, ſparkles take.</l>
+            <l>Not to conſume our <hi>Troy,</hi> (as<note n="*" place="margin">Nero.</note> he did <hi>Rome,</hi>
+            </l>
+            <l>Who made him Muſicke of his Citys doome:)</l>
+            <l>Rather ſuch ſtraines ſhall ſtart from our ſtrucke lyre</l>
+            <l>Which ſhall build up our <hi>Thebes,</hi> not ſet on fire.</l>
+            <l>Such a bright Beame we'l dart; that ſhall renew</l>
+            <l>Your <hi>Anceſtours,</hi> and bring their Acts to view.</l>
+            <l>
+               <hi>Acts</hi> that were loſt, like his <hi>Eurydice,</hi>
+            </l>
+            <l>Which we'l reduce by <hi>Orphan Melody:</hi>
+            </l>
+            <l>
+               <hi>Acts,</hi> that your <hi>Senators</hi> cloth will deeplier dy,</l>
+            <l>And make them <hi>Scarlet</hi> now with <hi>infamy.</hi>
+            </l>
+            <l>When that their <hi>Purple</hi> ſhall upbraid the cloth,</l>
+            <l>Now ſpoyld, and eaten by a <hi>Politique Moth,</hi>
+            </l>
+            <l>(<hi>Vermine</hi> at <hi>Weſtminſter,</hi>) whom you have nurſt,</l>
+            <l>Vntill your ſelves are ſtarv'd; yet thei'le not burſt.</l>
+            <l>See how the <hi>Bull-chins</hi> hang oth' <hi>Kingdoms</hi> breaſts,</l>
+            <l>While ſhe lanck <hi>Milcher</hi> lookes like <hi>Pharaos</hi> beaſts.</l>
+            <l>
+               <hi>Tranſparent;</hi> and her ſqueez'd vdders flop,</l>
+            <l>Like the dry'd driver of a ſchoole-boys Top.</l>
+            <l>Was the brave dagger in your <hi>Armes</hi> for this?<note n="*" place="margin">Given for ſuppreſſing <hi>W<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ats</hi> Re<g ref="char:EOLhyphen"/>bel<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</note>
+            </l>
+            <l>Was it for yeilding up your Liberties?</l>
+            <l>Was it for patient, modeſt, ſiting ſtill?</l>
+            <l>And let the Rebell Act what his proud will</l>
+            <l>Had once preſum'd? No: It was given to ſhew,</l>
+            <l>To after-age the <hi>Honour</hi> of that Blow.</l>
+            <l>That <hi>dagger</hi> ſtill ſo famous on Record,</l>
+            <l>Which did engage unto it a <hi>double</hi> ſword.</l>
+            <l>That of the <hi>Kings,</hi> and <hi>Majors,</hi> and did advance,</l>
+            <l>Vpon its <hi>Point</hi> the Cap of <hi>Maintenance.</hi>
+            </l>
+            <l>Look up to that brave <hi>Trojans;</hi> and youl' ſtagger,</l>
+            <l>Your bold invaders, if you draw that <hi>dagger.</hi>
+            </l>
+            <l>Looke in your <hi>Chronicles,</hi> and read what feares,</l>
+            <l>You were put in by the firſt<note n="*" place="margin">
+                  <hi>Iack Straw</hi> &amp; <hi>Cades</hi> Rebelli<g ref="char:EOLhyphen"/>on ſuppreſſed by the City.</note> Levellers.</l>
+            <l>A ſilly, Lowſy, undigeſted <hi>Throng,</hi>
+            </l>
+            <l>Who thought to have tane the Kingdome with<note n="*" place="margin">When <hi>Adam Diggd</hi> and <hi>E<g ref="char:EOLhyphen"/>viſpan,</hi> who was then the Gen<g ref="char:EOLhyphen"/>tleman.</note> a <hi>ſong.</hi>
+            </l>
+            <l>Which theſe baſe Rebells, the true brood of thoſe,</l>
+            <l>But not ſo learned, doe purſue in <hi>Proſe.</hi>
+            </l>
+            <l>Shall ſuch a ſort of <hi>Raſkalls</hi> the <hi>State</hi> awe?</l>
+            <l>Worſe then thoſe were, who are not worth a <hi>ſtraw.</hi>
+            </l>
+            <l>Shall theſe in Triumph ride throw the glaz'd ſtreets?</l>
+            <l>When you may ſmell from <hi>Windſor</hi> by their feet.</l>
+            <l>Shall theſe on Palfreys through the <hi>City</hi> ride?</l>
+            <l>Who Croſſe-legge ſate till now, and ne're a ſtride.</l>
+            <l>Shall theſe the Honour of an Nation merit?</l>
+            <l>And ſay they tooke once <hi>London</hi> by the ſpirit.</l>
+            <l>And have a <hi>Name,</hi> only renowned in ſtory,<note n="*" place="margin">
+                  <hi>Crumwells</hi> words; What if it were for the glory of God this <hi>City</hi> were burnt.</note>
+            </l>
+            <l>For burning <hi>London,</hi> to the <hi>good Lords glory.</hi>
+            </l>
+            <l>Shall theſe prophane the <hi>Scepter,</hi> as it were</l>
+            <l>A goodly <hi>Hoppe-pole</hi> made for <hi>Oliver.</hi>
+            </l>
+            <l>And ſhall the horſe of ſtate by <hi>Pockey</hi> hands,</l>
+            <l>Be led, and be at <hi>Martins</hi> fowle commands.</l>
+            <l>And goe as Gingerly as he; ſhall <hi>
+                  <g ref="char:V">Ʋ</g>ane,</hi>
+            </l>
+            <l>(Old perjurd <hi>
+                  <g ref="char:V">Ʋ</g>ane</hi>) ſweare away CHARLES his Raigne.</l>
+            <l>As he did <hi>Straffords</hi> head. To make his Babies</l>
+            <l>Sucking <hi>Independents,</hi> Lords of <hi>Raby.</hi>
+            </l>
+            <l>Shall <hi>Mildmay</hi> that ſame Precious <hi>Knave,</hi> cauſe knowne?</l>
+            <l>A Thiefe for Iewells, ſteale away the <hi>Crowne.</hi>
+            </l>
+            <l>Or <hi>Chaloner</hi> that ſpeeching Atheiſt, thinke,</l>
+            <l>That the Kings fame is murdered by his Inke.</l>
+            <l>And becauſe theſe could a<note n="*" place="margin">Thoſe foure, the complliers of the ſcand<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lus Declarati<g ref="char:EOLhyphen"/>on againſt the <hi>King.</hi>
+               </note> Declaration</l>
+            <l>Compoſe, Compoſe too an abus'd Nation.</l>
+            <l>We riſe (you Impoſters) as on a <hi>May</hi> day;</l>
+            <l>The Ills of the <hi>baſe Houſes</hi> to diſplay.</l>
+            <l>To pull them downe, or ſend you thence, who ſit,</l>
+            <l>And contrive <hi>Plagues.</hi> and pay your ſelves for it.</l>
+            <l>Give the Pale <hi>Speaker</hi> tother <hi>thouſand</hi> Pound,</l>
+            <l>If he can Vote CHARLES his depoſing round.</l>
+            <l>(This is their worke) yee ſhall be guarded, yes,</l>
+            <l>But from the Palace to your deſtinies.</l>
+            <l>You ſhall not longer by your Arts detains us,</l>
+            <l>We riſe up all as <hi>Criſpin</hi> and <hi>Criſpianus.</hi>
+            </l>
+            <l>Or like the <hi>Bechams</hi> bold: you Vote down Playes,</l>
+            <l>That we may not know the valour of thoſe dayes.</l>
+            <l>Becauſe your ſnifling worſhips want lets ſee,</l>
+            <l>No <hi>Plays,</hi> we'll now go Act the <hi>Tragady.</hi>
+            </l>
+            <l>And though you lately cleanſed, for your owne ſakes,</l>
+            <l>The <hi>Privies,</hi> we'l purge, <hi>you</hi> the Kingdomes <hi>Iakes.</hi>
+            </l>
+            <l>Never ſuch noyſome excrement did fit,</l>
+            <l>Choſe ſure, when that the Country was at ſhit.</l>
+            <l>Whoſe ſtink ſo rancke upon our noſtrill grows,</l>
+            <l>As <hi>Atkins</hi> were ſole <hi>goſsip</hi> to the <hi>Houſe.</hi>
+            </l>
+            <l>Foh you <hi>State Farmers!</hi> Let your owne deſpaire,</l>
+            <l>Drive you away; That we may clenſe the aire.</l>
+            <l>And make it fit for <hi>Caeſars</hi> Noſe againe,</l>
+            <l>If that the <hi>Royall</hi> Noſe will ever deigne,</l>
+            <l>To be ſo ne're ſuch <hi>Pole-cats:</hi> We now bring</l>
+            <l>Hempe for you Rebells, Noſe-gays for the King.</l>
+            <div type="part">
+               <head>Epiphonoma.</head>
+               <l>When <hi>Nero</hi> thnatned <hi>Rome</hi> with glorious Fire,</l>
+               <l>The news was next, the <hi>Tyrant</hi> did expire.</l>
+               <l>Go <hi>Oliver,</hi> thy malice not prevailes.</l>
+               <l>Thou haſt two enemies, <hi>London</hi> and <hi>Wales.</hi>
+               </l>
+               <l>And both in thy ſure ruines hope to laugh,</l>
+               <l>
+                  <hi>Wales</hi> be thy Tombe, <hi>London</hi> thy <hi>Epitaph.</hi>
+               </l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
